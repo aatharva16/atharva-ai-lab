@@ -41,4 +41,3 @@ This repo is my public accountability system. Every commit = something real I di
 ## Connect
 
 - LinkedIn: [Add your link]
-- Instagram (DevaPixels): [Add your link]
