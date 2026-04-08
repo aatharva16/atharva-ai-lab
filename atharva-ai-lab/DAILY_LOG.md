@@ -3,6 +3,23 @@
 A running log of what I did each day. One entry per day, newest at the top.
 
 ---
+## 2026-04-08 — Built Phase 0, 1a, 1b of the KRD Tool.
+
+**Area:** work-tools / experiments
+
+**What I did:**
+Executed each of the following phases and built a working KRD generation tool which is able to generate each of the KRD sections, and the LLM response streams to me word by word vs all of it being shared all at once after a 60s wait.
+
+**File(s) committed:**
+No commits yet
+
+**Time spent:** ~1.5 hrs
+
+**What I'd do differently / next step:**
+Next step is to execute the remaining phases 2,3,4,5 and 6. Meanwhile I will also spend some time using the product to indentify some quick fixes as well.
+
+---
+
 
 ## 2026-04-07 — Phase wise plan to build a tool reduce KRD writing time from 1.5hr to 20mins.
 
